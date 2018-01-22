@@ -25,7 +25,7 @@ h1 {
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 36px;
   line-height: 46px;
 }
 
@@ -263,8 +263,8 @@ a:hover, a:active, a:focus {
      align-items: center;
     position: relative;
     text-align: center;
-    padding-top: 60px;
-    padding-bottom: 40px;
+    padding-top: 180px;
+    padding-bottom: 200px;
 }
 
 #home hr {
@@ -325,7 +325,7 @@ a:hover, a:active, a:focus {
 #portfolio .portfolio-thumb {
   position: relative;
   padding: 0;
-  margin-top: 32px;
+  margin-top: 0;
 }
 
 #portfolio .portfolio-thumb .portfolio-overlay {
